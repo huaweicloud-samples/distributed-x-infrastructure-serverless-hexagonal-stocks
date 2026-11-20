@@ -1,0 +1,11 @@
+# Terraform
+infra/.terraform/
+infra/*.tfstate*
+infra/*.tfplan
+infra/terraform.tfvars
+
+# Node
+node_modules/
+
+# CodeArts Doer 本地工具状态
+.codeartsdoer/
